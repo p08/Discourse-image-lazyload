@@ -1,4 +1,0 @@
-Show_prominent_color:
-  default: true
-  description:
-    en: "Display the most prominent color in an image as a placeholder while the image loads"
