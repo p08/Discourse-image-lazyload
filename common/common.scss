@@ -1,0 +1,11 @@
+.lazyload,
+.lazyloading {
+  opacity: 0;
+  background: rgba($primary, 1);
+  border: 1px solid rgba($secondary, 1);
+  box-sizing: border-box;
+}
+
+.cooked img {
+    transition: opacity .4s .75s ease;
+}
