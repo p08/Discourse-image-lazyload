@@ -1,5 +1,6 @@
 {
   "name": "LazyLoad images",
   "about_url": "https://meta.discourse.org/t/",
-  "license_url": "https://github.com/hnb-ku/Discourse-image-lazyload/blob/master/LICENSE"
+  "license_url": "https://github.com/hnb-ku/Discourse-image-lazyload/blob/master/LICENSE",
+  "component": true
 }
