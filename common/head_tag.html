@@ -6,7 +6,7 @@ src="https://cdnjs.cloudflare.com/ajax/libs/lazysizes/4.0.2/lazysizes.min.js"
 window.lazySizesConfig.expand = 500;
 
 $.fn.dlazy = function() {
-  var image = this.find(".thumbnail");
+  var image = this.find(".lightbox img");
   $.each(image, function() {
     var imageSrc = $(this).attr("src");
       $(this)
